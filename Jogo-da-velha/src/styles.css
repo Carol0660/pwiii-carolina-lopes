@@ -54,11 +54,13 @@ body {
   font-family: sans-serif;
   margin: 20px;
   padding: 0;
+  background-color: lab(89.46% 17.48 -6.68);
+  
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: hsl(324, 100%, 79%);
+  border: 1px solid hsl(322, 44%, 41%);
   float: left;
   font-size: 24px;
   font-weight: bold;
